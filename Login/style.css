@@ -5,13 +5,13 @@
 }
 
 body{
-     background-image: url("./Images/empresa.png");
+    background-image: url("./Images/empresa.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     font-family: "Inter", sans-serif;
     display: flex;
-    background-color: #8a8d94;
+    background-color: #ffffff;
     align-items: center;
     justify-content: center;
     min-height: 100vh;
@@ -20,7 +20,7 @@ body{
 
 .container{
     position: relative;
-    background-color: #ffffff00;
+    background-color: #00000000;
     width: 300px;
     height: 350px;
     border: 2px solid #ffffff00;
@@ -84,7 +84,7 @@ body{
     padding: 8px 0px;
     border: none;
     width: 100%;
-    border-bottom: 2px solid #dfdbd6;
+    border-bottom: 2px solid #ffffff;
     font-size: 18px;
 }
 
@@ -96,9 +96,9 @@ input::placeholder{
 input:focus{
     border: none;
     outline: none;
-    color: #dfdbd6;
+    color: #ffffff;
     font-size: 16px;
-    border-bottom: 2px solid #dfdbd6;
+    border-bottom: 2px solid #ffffff;
 }
 
 .btn-login{
@@ -113,10 +113,11 @@ input:focus{
     transition: all 200ms ease-in-out;
 }
 
+
 .btn-login:hover{
     cursor: pointer;
     color: #000000;
-    border: 2px solid #dfdbd6;
+    border: 2px solid #ffffff00;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 
@@ -127,11 +128,11 @@ input:focus{
     align-items: center;
     width: auto;
     height: auto;
-    background-color: #dfdbd6;
-    gap: 2vh;
-    padding: 50px;
+    background-color: #ffffff;
+    gap: 1vh;
+    padding: 20px;
     position: absolute;
-    bottom: 33%;
+    bottom: 5%;
     font-size: 14px;
     font-weight: lighter;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;

@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "desc": "iphone 17",
+        "imagem": "../Dados/Images/17.webb",
+        "preco": 21.490
+    },
+     {
+        "id": 3,
+        "desc": "iphone 16",
+        "imagem": "../Dados/Images/iphone_16_pro_max.jpg",
+        "preco": 11.100
+    },
+    {
+        "id": 2,
+        "desc": "iphone 15",
+        "imagem": "../Dados/Images/iphone_15_pro_max.jpg",
+        "preco": 5.900
+    },
+    {
+        "id": 3,
+        "desc": "iphone 14",
+        "imagem": "../Dados/Images/iphone_14.jpg",
+        "preco": 3.783
+    },
+    {
+        "id": 4,
+        "desc": "iphone 13",
+        "imagem": "../Dados/Images/iphone_13.jpg",
+        "preco": 3.783
+    },
+    {
+        "id": 5,
+        "desc": "iphone 12",
+        "imagem": "../Dados/Images/iphone_12.jpg",
+        "preco": 2.276
+    },
+    {
+        "id": 6,
+        "desc": "iphone 11",
+        "imagem": "../Dados/Images/iphone_11.jpg",
+        "preco": 2.276
+    },
+    {
+        "id": 7,
+        "desc": "iphone 10",
+        "imagem": "../Dados/Images/iphone_10.png",
+        "preco": 979.00
+    },
+    {
+        "id": 8,
+        "desc": "Macbook Air",
+        "imagem": "../Dados/Images/Macbook.jpg",
+        "preco": 9.253
+    },
+    {
+        "id": 9,
+        "desc": "iPad Pro",
+        "imagem": "../Dados/Images/iPad_pro.jpg",
+        "preco": 29.999
+    },
+    {
+        "id": 10,
+        "desc": "Mac Pro",
+        "imagem": "../Dados/Images/Mac_Pro.jpg",
+        "preco": 99.179
+    }
+]
